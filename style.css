@@ -1,0 +1,53 @@
+body {
+    background-color: darkslategrey;
+    color:floralwhite;
+    margin-left: 50px;
+    scroll-margin-right: 50px;
+}
+
+a {
+    color: rgb(100, 183, 211);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-yellow {
+    color: yellow;
+}
+
+.img-s {
+    height: 32px;
+    width: 32px;
+}
+
+.img-md {
+    height: 64px;
+    width: 64px;
+}
+
+.img-lg {
+    height: 128px;
+    width: 128px;
+}
+
+.mt-1 {
+    margin-top: 10px;
+}
+
+.mt-2 {
+    margin-top: 20px;
+}
+
+.mt-3 {
+    margin-top: 30px;
+}
+
+.input-number {
+    width: 60px;
+}
+
+
+
+
